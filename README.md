@@ -17,7 +17,7 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
-# 📖 Hello-rails-Backend <a name="about-project"></a>
+# 📖 Hello-rails-Frontend <a name="about-project"></a>
 > This is the repo to practice working with rails api and rails as a backend application. Here is the link to the [Backend](https://github.com/Tobby8629/hello-rails-back-end)
 
 ## Built With <a name="built-with"></a>
